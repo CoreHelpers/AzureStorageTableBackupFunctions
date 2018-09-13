@@ -1,3 +1,10 @@
 {
-  "disabled": false
+  "bindings": [
+    {
+      "name": "backupTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 0 */24 * * *"
+    }
+  ]
 }
