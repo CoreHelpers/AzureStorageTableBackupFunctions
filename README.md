@@ -2,10 +2,10 @@
 
 | Build | Status | 
 |---|---|
-| Docker Version | https://github.com/CoreHelpers/AzureStorageTableBackup/edit/master/Readme.md |
+| Docker Version | https://github.com/CoreHelpers/AzureStorageTableBackup |
 | Based On | https://github.com/CoreHelpers/AzureStorageTable |
 
 # Description
 
 Implement a standard Azure Functions App and connect this Git repository as deployment option. After 
-that configure the environemtn variables as described here for backup: https://github.com/CoreHelpers/AzureStorageTableBackup/edit/master/Readme.md
+that configure the environemtn variables as described here for backup: https://github.com/CoreHelpers/AzureStorageTableBackup
